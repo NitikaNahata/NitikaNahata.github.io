@@ -1,2 +1,2 @@
 # NitikaNahata.github.io
-This is my personal portfolio
+This is a personal portfolio
